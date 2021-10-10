@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoodFinalUnity.iml" filepath="$PROJECT_DIR$/.idea/modules/GoodFinalUnity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/GoodFinalUnity.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/GoodFinalUnity.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/GoodFinalUnity.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/GoodFinalUnity.unityLibrary.iml" />
+    </modules>
+  </component>
+</project>

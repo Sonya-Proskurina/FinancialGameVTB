@@ -14,7 +14,7 @@
 # Снимки экрана:
 ![](https://github.com/Sonya-Proskurina/FinancialGameVTB/blob/master/image2.png)
 
-# Authors: 
+# Авторы: 
 [Alexander Gridnev](https://github.com/GoalKepper)
 
 [Sonya Proskurina](https://github.com/Sonya-Proskurina)
